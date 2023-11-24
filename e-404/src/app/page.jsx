@@ -4,7 +4,7 @@ import './globals.css'
 
 export default function Home() {
   return (
-    <main className="bg-black">
+    <main>
       <div className="">
 
       </div>
