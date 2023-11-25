@@ -12,11 +12,10 @@ export default function Home() {
       <div className="soon">
         <h1>Eder-404</h1>
         <p>En contruccion</p>
-
         
       </div>
-
-
+    
+      
    
     </main>
     
